@@ -1,3 +1,5 @@
+# [English verison](https://github.com/dreamtydev/PCRemoteControl-Discord-bot/blob/main/README_EN.md)
+
 # ✨ Инструкция
 1. Установите [Python](https://www.python.org/)
 2. В командной строке введите ``pip install disnake pyautogui psutil datetime``
